@@ -1,0 +1,136 @@
+.nav-link, .cor-w{
+    color: white;
+}
+
+.nav-link:hover, .cor-w:hover{
+    color: yellow;
+}
+
+#titulo{
+    color: white;
+    height: 30%;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+.slaide{
+    color: lawngreen;
+}
+
+#menu-header{
+    margin-top:1%;
+}
+
+#menu-srv{
+    margin-top:1%;
+    padding-bottom: 1%;
+}
+
+#faleconosco{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    background-color: gainsboro;
+}
+
+.fale{
+    background-color: yellow;
+    padding-top: 1%;
+    padding-bottom: 0.5px;
+    margin-bottom: 1%;
+    margin-top: 1%;    
+}
+
+.menuf{
+    background-color: rgb(245, 238, 238);
+    font-size: 1.15rem;
+}
+
+footer, footer>div, .corpo{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.whats{
+    display: flex;
+    width:42px;
+    height:42px;
+    justify-content: center;
+    align-items: center;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index:1000;
+    margin-left: 2%;
+}
+
+.whats:hover{
+    text-decoration: none;
+}
+
+.card{
+    box-shadow: 1rem 1rem 1rem silver;
+}
+
+.card-lnk{
+    box-shadow: 0.2rem 0.2rem 0.2rem grey;
+}
+
+.text {
+    font-size: 2.3rem;
+    color: silver;
+}
+
+
+.post-footer {
+    background-color: rgb(245, 238, 238);
+   
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+}
+
+.share-title{
+    text-align: center;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(245, 238, 238);
+    width: 32%;
+}
+
+.fa-facebook-square:hover{
+    color: rgb(47, 47, 141);
+}
+
+.fa-twitter-square:hover{
+    color: dodgerblue;
+}
+
+.fa-google-plus-square:hover{
+    color: rgb(194, 19, 19);
+}
+
+.fa-whatsapp-square:hover{
+    color: green;
+}
+
+.fa-linkedin:hover{
+    color:rgb(16, 35, 206);
+}
+
+.fa-envelope-square:hover{
+    color: darkred;
+}
+
+.fa-print:hover{
+    color: black;
+}
