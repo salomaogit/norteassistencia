@@ -107,30 +107,34 @@ footer, footer>div, .corpo{
     width: 32%;
 }
 
-.fa-facebook-square:hover{
+.fa-facebook-square{
     color: rgb(47, 47, 141);
 }
 
-.fa-twitter-square:hover{
+.fa-twitter-square{
     color: dodgerblue;
 }
 
-.fa-google-plus-square:hover{
+.fa-google-plus-square{
     color: rgb(194, 19, 19);
 }
 
-.fa-whatsapp-square:hover{
+.fa-whatsapp-square{
     color: green;
 }
 
-.fa-linkedin:hover{
+.fa-linkedin{
     color:rgb(16, 35, 206);
 }
 
-.fa-envelope-square:hover{
+.fa-envelope-square{
     color: darkred;
 }
 
-.fa-print:hover{
+.fa-print{
+    color: black;
+}
+
+.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
     color: black;
 }
