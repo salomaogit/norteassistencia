@@ -17,8 +17,8 @@
             <label for="email">E-mail</label>
             <input type="email" id="email" name="email" class="form-control ">
         </div>
-        </div>
-        <div class="row">
+    </div>
+    <div class="row">
         <div class="col-md-12 form-group">
             <label for="message">Descrição do serviço</label>
             <textarea name="descr" id="message" class="form-control " cols="30" rows="8"></textarea>

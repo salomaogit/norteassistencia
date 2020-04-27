@@ -83,12 +83,11 @@ footer, footer>div, .corpo{
 }
 
 
-.post-footer {
+/* .post-footer {
     background-color: rgb(245, 238, 238);
-   
     margin-top: 1rem;
     padding: 1rem;
-}
+} */
 
 .social{
     display: flex;
