@@ -22,7 +22,7 @@
                 data-network-name="linkedin">
                 <i class="fab fa-linkedin text"></i>
             </a>
-            <a href="mailto:someone@microsoft.com?subject=Bom%20dia!%20Gostaria%20de%20informações!%20Estarei%20no%20aguardo%20de%20um%20retorno." class="social-share-link" title="Norte Assistêcia via Email" 
+            <a href="mailto:norteassistenciatecnica@gmail.com?subject=Bom%20dia!%20Gostaria%20de%20informações!%20Estarei%20no%20aguardo%20de%20um%20retorno." class="social-share-link" title="Norte Assistêcia via Email" 
             data-network-name="basic_email">
                 <i class="fas fa-envelope-square text"></i>
             </a>
