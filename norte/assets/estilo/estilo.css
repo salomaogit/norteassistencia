@@ -13,8 +13,16 @@
     margin-top: 4%;
 }
 
-.slaide{
-    color: lawngreen;
+.slaide-1{
+    color: rgba(6, 4, 36, 0.993);
+}
+
+.slaide-2{
+    color: rgba(172, 13, 13, 0.993);
+}
+
+.slaide-3{
+    color: rgba(253, 237, 6, 0.747);
 }
 
 #menu-header{

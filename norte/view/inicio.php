@@ -8,21 +8,21 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="img/slide1.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block slaide">
+        <div class="carousel-caption d-none d-md-block slaide slaide-1">
           <h5>Computadores</h5>
           <p>Manutenção em hardware e softwares.</p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="img/slide2.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block slaide">
+        <div class="carousel-caption d-none d-md-block slaide slaide-2">
           <h5>Assistência Técnica e Eletrônica</h5>
           <p>Fornecemos serviços de assistência técnica para todas as marcas.</p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="img/slide3.png" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block slaide">
+        <div class="carousel-caption d-none d-md-block slaide slaide-3">
           <h5>Todas as Marcas e Equipamentos</h5>
           <p>Assumimos o compromisso da nossa missão com nossos clientes.</p>
         </div>
