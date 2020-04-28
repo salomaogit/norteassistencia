@@ -52,7 +52,7 @@
             <img class="img-fluid" src="img/panfleto.png" alt="Panfleto">
         </div>
         <div class="col-sm-5">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.2606826833!2d-59.9816874857155!3d-3.0245210408439878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x926c1978776295bf%3A0xd8a910e958bc74ee!2sNorte%20Assist%C3%AAncia%20T%C3%A9cnica%20e%20Eletr%C3%B4nica!5e0!3m2!1spt-BR!2sbr!4v1574985410773!5m2!1spt-BR!2sbr" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <iframe class="mapa-loja" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.2606826833!2d-59.9816874857155!3d-3.0245210408439878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x926c1978776295bf%3A0xd8a910e958bc74ee!2sNorte%20Assist%C3%AAncia%20T%C3%A9cnica%20e%20Eletr%C3%B4nica!5e0!3m2!1spt-BR!2sbr!4v1574985410773!5m2!1spt-BR!2sbr" allowfullscreen=""></iframe>
         </div>
     </div>
 </div>
