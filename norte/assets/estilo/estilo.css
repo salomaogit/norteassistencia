@@ -151,3 +151,9 @@ footer, footer>div, .corpo{
 .fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
     color: black;
 }
+
+@media screen and (max-width: 800px){
+    div{
+        flex-direction: column;
+    }
+}
