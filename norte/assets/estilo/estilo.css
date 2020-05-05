@@ -153,7 +153,11 @@ footer, footer>div, .corpo{
 }
 
 @media screen and (max-width: 800px){
-    div{
+    /* header>div{
         flex-direction: column;
+        flex-wrap: wrap;
     }
+    .sticky-top{
+        position: static;
+    } */
 }
