@@ -10,7 +10,7 @@
     color: white;
     text-align: center;
     margin-left: 0;
-    padding-top: 2%;
+    margin-top: 2%;
 }
 
 .sticky-top{
@@ -30,9 +30,9 @@
 }
 
 .logo-norte{
-    width: 95px;
-    height: 90px;
-    padding-top: 5%;
+    width: 80px;
+    height: 80px;
+    margin-top: 2px;
 }
 
 #busca{
