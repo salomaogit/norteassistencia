@@ -170,6 +170,7 @@ footer, footer>div, .corpo{
         flex-direction: column;
     }
     #titulo, #titulo-img{
-        width: 100%;
+        width: 92%;
+        margin-left: 3.8%;
     }
 }
