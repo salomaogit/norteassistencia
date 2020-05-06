@@ -8,9 +8,10 @@
 
 #titulo{
     color: white;
-    height: 30%;
+    
+    /* height: 30%;
     margin-left: 15%;
-    margin-top: 4%;
+    margin-top: 4%; */
 }
 
 .slaide-1{
@@ -153,8 +154,9 @@ footer, footer>div, .corpo{
 }
 
 @media screen and (max-width: 800px){
+    
     /* header>div{
-        flex-direction: column;
+        flex-direction: row;
         flex-wrap: wrap;
     }
     .sticky-top{
