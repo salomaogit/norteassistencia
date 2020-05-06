@@ -16,10 +16,10 @@
     <div class="container">
         <header class="sticky-top bg-dark">
             <div class="row">
-                <div class="col-sm-2 text-center">
+                <div class=" text-center" id=titulo-img>
                     <img src="img/norte_logo.png" class="img-fluid logo-norte" alt="logo">
                 </div>
-                <div class="col-sm-10" id="titulo">
+                <div class="" id="titulo">
                     <h2>Norte Assistência Técnica</h2>    
                 </div>
             </div>

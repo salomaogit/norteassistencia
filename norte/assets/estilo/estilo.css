@@ -9,8 +9,12 @@
 #titulo{
     color: white;
     text-align: center;
-    margin-left: 0;
     margin-top: 2%;
+    width: 60%;
+}
+
+#titulo-img{
+    width: 20%;
 }
 
 .sticky-top{
@@ -30,7 +34,7 @@
 }
 
 .logo-norte{
-    width: 80px;
+    width: 85px;
     height: 80px;
     margin-top: 2px;
 }
@@ -164,5 +168,8 @@ footer, footer>div, .corpo{
 @media screen and (max-width: 800px){
     header>div{
         flex-direction: column;
+    }
+    #titulo, #titulo-img{
+        width: 100%;
     }
 }
