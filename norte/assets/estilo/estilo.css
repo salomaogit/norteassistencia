@@ -8,10 +8,13 @@
 
 #titulo{
     color: white;
-    
-    /* height: 30%;
-    margin-left: 15%;
-    margin-top: 4%; */
+    text-align: center;
+    margin-left: 0;
+    padding-top: 2%;
+}
+
+.sticky-top{
+    position: static;
 }
 
 .slaide-1{
@@ -26,6 +29,11 @@
     color: rgba(253, 237, 6, 0.747);
 }
 
+.logo-norte{
+    width: 90px;
+    height: 95px;
+}
+
 #menu-header{
     margin-top:1%;
 }
@@ -33,6 +41,7 @@
 #menu-srv{
     margin-top:1%;
     padding-bottom: 1%;
+    text-align: center;
 }
 
 #faleconosco{
@@ -154,12 +163,7 @@ footer, footer>div, .corpo{
 }
 
 @media screen and (max-width: 800px){
-    
-    /* header>div{
-        flex-direction: row;
-        flex-wrap: wrap;
+    header>div{
+        flex-direction: column;
     }
-    .sticky-top{
-        position: static;
-    } */
 }

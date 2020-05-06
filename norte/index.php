@@ -16,11 +16,11 @@
     <div class="container">
         <header class="sticky-top bg-dark">
             <div class="row">
-                <div class="col-sm-1">
-                    <img src="img/norte_logo.png" width="90px" height="90px" alt="logo">
+                <div class="col-sm-2 text-center">
+                    <img src="img/norte_logo.png" class="img-fluid logo-norte" alt="logo">
                 </div>
-                <div class="col-sm-11" id="titulo">
-                    <h1>Norte Assistência Técnica</h1>    
+                <div class="col-sm-10" id="titulo">
+                    <h2>Norte Assistência Técnica</h2>    
                 </div>
             </div>
             <div id="menu-header">
