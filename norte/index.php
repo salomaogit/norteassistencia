@@ -23,25 +23,23 @@
                     <h2>Norte Assistência Técnica</h2>    
                 </div>
             </div>
-            <div id="menu-header">
+            <div>
                 <?php
                     include_once "view/menu.php";
                 ?>
             </div>
             <div>
-                <div>
-                    <?php
-                        if(isset($_GET["pag"])){
-                            $pagina = $_GET["pag"];
-                        }
-                        else{
-                            $pagina = "inicio";
-                        }
-                        if($pagina == "servicos"){
-                            include_once "view/menusrv.php";
-                        }
-                    ?>
-                </div>
+                <?php
+                    if(isset($_GET["pag"])){
+                        $pagina = $_GET["pag"];
+                    }
+                    else{
+                        $pagina = "inicio";
+                    }
+                    if($pagina == "servicos"){
+                        include_once "view/menusrv.php";
+                    }
+                ?>
             </div>
         </header>
         <div class="corpo">
