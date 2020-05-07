@@ -9,8 +9,12 @@
 #titulo{
     color: white;
     text-align: center;
-    margin-left: 0;
-    padding-top: 2%;
+    margin-top: 2%;
+    width: 60%;
+}
+
+#titulo-img{
+    width: 20%;
 }
 
 .sticky-top{
@@ -30,18 +34,29 @@
 }
 
 .logo-norte{
+<<<<<<< HEAD
     width: 95px;
     height: 90px;
+=======
+    width: 85px;
+    height: 80px;
+    margin-top: 2px;
+>>>>>>> 4c5577ce5de923f9018af66d789929076b9b901c
 }
 
-#menu-header{
-    margin-top:1%;
+#busca{
+    padding-bottom: 1%;
 }
 
 #menu-srv{
+<<<<<<< HEAD
     margin-top:1%;
     padding-bottom: 2px;
     text-align: center;
+=======
+    padding-left: 3%;
+    padding-bottom: 1.5%;
+>>>>>>> 4c5577ce5de923f9018af66d789929076b9b901c
 }
 
 #faleconosco{
@@ -61,11 +76,12 @@
 .menuf{
     background-color: rgb(245, 238, 238);
     font-size: 1.15rem;
+    margin-bottom: 2%;
 }
 
 footer, footer>div, .corpo{
-    padding-top: 2%;
-    padding-bottom: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
 
 .mapa-loja{
@@ -109,8 +125,6 @@ footer, footer>div, .corpo{
 
 .post-footer {
     background-color: rgb(245, 238, 238);
-    margin-top: 1rem;
-    padding: 1rem;
 }
 
 .social{
@@ -159,11 +173,19 @@ footer, footer>div, .corpo{
 }
 
 .fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
-    color: black;
+    color: rgba(190, 188, 24, 0.863);
 }
 
 @media screen and (max-width: 800px){
-    header>div{
+    header>div, header>div>nav{
         flex-direction: column;
+    }
+    #titulo, #titulo-img{
+        width: 92%;
+        margin-left: 3.8%;
+    }
+    #menu-srv, header>div>nav{
+        text-align: center;
+        padding-left: 0;
     }
 }

@@ -37,7 +37,7 @@
             <div class="card bg-secondary text-white" style="width: 100%;">
                 <div class="card-body">
                     <h5 class="card-title  text-center">Impressora</h5>
-                    <p class="card-text">Consertamos impressoras de todas as marcar, tipos e tamanhos, jato de tinta, book-inc, laser e matricial</p>
+                    <p class="card-text">Consertamos impressoras de todas as marcar, tipos e tamanhos, jato de tinta, book-inc, laser e matricial (de agulhas)</p>
                     <a href="?pag=faleconosco&categ=infohard&serv=impressora" class="btn btn-primary">Solicitar Serviço</a>
                 </div>
             </div>
