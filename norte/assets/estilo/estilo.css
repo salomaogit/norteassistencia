@@ -30,8 +30,8 @@
 }
 
 .logo-norte{
-    width: 90px;
-    height: 95px;
+    width: 95px;
+    height: 90px;
 }
 
 #menu-header{
@@ -40,7 +40,7 @@
 
 #menu-srv{
     margin-top:1%;
-    padding-bottom: 1%;
+    padding-bottom: 2px;
     text-align: center;
 }
 
