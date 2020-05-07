@@ -34,14 +34,9 @@
 }
 
 .logo-norte{
-<<<<<<< HEAD
-    width: 95px;
-    height: 90px;
-=======
     width: 85px;
     height: 80px;
     margin-top: 2px;
->>>>>>> 4c5577ce5de923f9018af66d789929076b9b901c
 }
 
 #busca{
@@ -49,14 +44,8 @@
 }
 
 #menu-srv{
-<<<<<<< HEAD
-    margin-top:1%;
-    padding-bottom: 2px;
-    text-align: center;
-=======
     padding-left: 3%;
     padding-bottom: 1.5%;
->>>>>>> 4c5577ce5de923f9018af66d789929076b9b901c
 }
 
 #faleconosco{
